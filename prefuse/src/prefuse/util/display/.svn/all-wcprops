@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display
+END
+ItemBoundsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/ItemBoundsListener.java
+END
+PaintListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/PaintListener.java
+END
+BackgroundPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/BackgroundPainter.java
+END
+RenderingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/RenderingQueue.java
+END
+ExportDisplayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/ExportDisplayAction.java
+END
+Clip.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/Clip.java
+END
+DebugStatsPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/DebugStatsPainter.java
+END
+ScaleSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/ScaleSelector.java
+END
+DisplayLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/DisplayLib.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/display/package.html
+END

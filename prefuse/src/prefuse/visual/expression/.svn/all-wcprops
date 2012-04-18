@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression
+END
+HoverPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/HoverPredicate.java
+END
+InGroupPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/InGroupPredicate.java
+END
+QueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/QueryExpression.java
+END
+SearchPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/SearchPredicate.java
+END
+GroupExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/GroupExpression.java
+END
+StartVisiblePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/StartVisiblePredicate.java
+END
+GroupSizeFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/GroupSizeFunction.java
+END
+ValidatedPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/ValidatedPredicate.java
+END
+VisiblePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/VisiblePredicate.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/visual/expression/package.html
+END

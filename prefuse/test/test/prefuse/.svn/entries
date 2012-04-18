@@ -1,0 +1,58 @@
+8
+
+dir
+523
+http://inav.scaparra.com/INAV/old/prefuse/test/test/prefuse
+http://inav.scaparra.com/INAV
+
+
+
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6004118f-da27-0410-86d5-e2dcc275f102
+
+visual
+dir
+
+All_Prefuse_Tests.java
+file
+
+
+
+
+2009-01-08T18:02:12.000000Z
+e54b0540695af9cca056cc4a1dbd535b
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+TestConfig.java
+file
+
+
+
+
+2009-01-08T18:02:12.000000Z
+8cef4d523bbc8d2066726292872f810c
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+data
+dir
+

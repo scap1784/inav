@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Tree.java
+END
+CascadedTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/CascadedTable.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Schema.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Graph.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Edge.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Node.java
+END
+DataReadOnlyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/DataReadOnlyException.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Table.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/Tuple.java
+END
+DataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/DataTypeException.java
+END
+SpanningTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/SpanningTree.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/package.html
+END

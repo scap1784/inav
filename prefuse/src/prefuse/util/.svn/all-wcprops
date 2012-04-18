@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util
+END
+PrefuseConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/PrefuseConfig.java
+END
+DataLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/DataLib.java
+END
+PrefuseLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/PrefuseLib.java
+END
+PredicateChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/PredicateChain.java
+END
+ArrayLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/ArrayLib.java
+END
+ColorLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/ColorLib.java
+END
+TypeLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/TypeLib.java
+END
+ColorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/ColorMap.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/package.html
+END
+MathLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/MathLib.java
+END
+TimeLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/TimeLib.java
+END
+GraphicsLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/GraphicsLib.java
+END
+GraphLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/GraphLib.java
+END
+UpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/UpdateListener.java
+END
+FontLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/FontLib.java
+END
+StringLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/StringLib.java
+END
+StrokeLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/util/StrokeLib.java
+END

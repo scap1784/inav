@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/INAV/!svn/ver/500/old/display/network
+END
+Xml.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/old/display/network/Xml.java
+END
+NetworkWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/display/network/NetworkWriter.java
+END
+NetworkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/display/network/NetworkClient.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/INAV/!svn/ver/500/old/display/network/Buffer.java
+END
+NetworkReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/display/network/NetworkReader.java
+END

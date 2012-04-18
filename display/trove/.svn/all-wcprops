@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/INAV/!svn/ver/500/old/display/trove
+END
+TPrimitiveHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/INAV/!svn/ver/500/old/display/trove/TPrimitiveHash.java
+END
+TLongIntHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/display/trove/TLongIntHashMap.java
+END
+PrimeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/INAV/!svn/ver/500/old/display/trove/PrimeFinder.java
+END
+TPrimitiveIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/display/trove/TPrimitiveIterator.java
+END
+TLongIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/INAV/!svn/ver/500/old/display/trove/TLongIntProcedure.java
+END
+THash.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/old/display/trove/THash.java
+END
+TLongIntIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/INAV/!svn/ver/500/old/display/trove/TLongIntIterator.java
+END
+TLongHashingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/display/trove/TLongHashingStrategy.java
+END
+HashFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/INAV/!svn/ver/500/old/display/trove/HashFunctions.java
+END
+TIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/display/trove/TIterator.java
+END
+TIntFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/INAV/!svn/ver/500/old/display/trove/TIntFunction.java
+END
+SerializationProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/INAV/!svn/ver/500/old/display/trove/SerializationProcedure.java
+END
+TLongHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/display/trove/TLongHash.java
+END
+TIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/INAV/!svn/ver/500/old/display/trove/TIntProcedure.java
+END
+TLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/INAV/!svn/ver/500/old/display/trove/TLongProcedure.java
+END

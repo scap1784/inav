@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate
+END
+AxisLabelAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/AxisLabelAnimator.java
+END
+FontAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/FontAnimator.java
+END
+PolarLocationAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/PolarLocationAnimator.java
+END
+VisibilityAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/VisibilityAnimator.java
+END
+LocationAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/LocationAnimator.java
+END
+QualityControlAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/QualityControlAnimator.java
+END
+SizeAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/SizeAnimator.java
+END
+ArrayAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/ArrayAnimator.java
+END
+ColorAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/ColorAnimator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/animate/package.html
+END

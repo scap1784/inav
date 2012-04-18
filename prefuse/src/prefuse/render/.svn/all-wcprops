@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render
+END
+NullRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/NullRenderer.java
+END
+DefaultRendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/DefaultRendererFactory.java
+END
+LabelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/LabelRenderer.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/Renderer.java
+END
+ShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/ShapeRenderer.java
+END
+ImageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/ImageFactory.java
+END
+AbstractShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/AbstractShapeRenderer.java
+END
+AxisRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/AxisRenderer.java
+END
+EdgeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/EdgeRenderer.java
+END
+PolygonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/PolygonRenderer.java
+END
+RendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/RendererFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/render/package.html
+END

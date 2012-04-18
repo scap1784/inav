@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util
+END
+FilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/FilterIterator.java
+END
+NamedColumnProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/NamedColumnProjection.java
+END
+TableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/TableIterator.java
+END
+RowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/RowManager.java
+END
+AcceptAllColumnProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/AcceptAllColumnProjection.java
+END
+ValidEdgePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/ValidEdgePredicate.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/Index.java
+END
+NeighborIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/NeighborIterator.java
+END
+UniqueRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/UniqueRowIterator.java
+END
+CascadedRowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/CascadedRowManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/package.html
+END
+AbstractColumnProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/AbstractColumnProjection.java
+END
+TreeNodeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/TreeNodeIterator.java
+END
+TupleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/TupleComparator.java
+END
+FilteredRowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/FilteredRowManager.java
+END
+SortedTupleIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/SortedTupleIterator.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/Sort.java
+END
+FilterRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/FilterRowIterator.java
+END
+FilterIteratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/FilterIteratorFactory.java
+END
+TreeIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/TreeIndex.java
+END
+ColumnProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/ColumnProjection.java
+END
+BreadthFirstIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/util/BreadthFirstIterator.java
+END

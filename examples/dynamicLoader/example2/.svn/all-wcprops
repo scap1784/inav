@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example2
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example2/main.cpp
+END
+triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example2/triangle.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example2/Makefile
+END
+polygon.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example2/polygon.hpp
+END

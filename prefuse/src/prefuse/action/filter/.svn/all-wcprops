@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/filter
+END
+FisheyeTreeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/filter/FisheyeTreeFilter.java
+END
+GraphDistanceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/filter/GraphDistanceFilter.java
+END
+VisibilityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/filter/VisibilityFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/filter/package.html
+END

@@ -1,0 +1,199 @@
+8
+
+dir
+523
+http://inav.scaparra.com/INAV/old/display
+http://inav.scaparra.com/INAV
+
+
+
+2009-01-06T05:34:02.280428Z
+500
+zarvox
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6004118f-da27-0410-86d5-e2dcc275f102
+
+Service.java
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+3fd2604ae298469644c380cc5b05d509
+2007-07-26T03:03:42.955814Z
+322
+robinson
+
+prefuse.jar
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+87650cdb4b04573bbd48e0f3901a21a5
+2007-08-08T00:17:30.269880Z
+338
+robinson
+has-props
+
+.project
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+8d152326419525f1c921cf85a44b8301
+2007-07-14T06:37:48.789698Z
+303
+robinson
+
+Build INAV.launch
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+25ce2b976e9b224932fcfc8cb8d18428
+2007-07-14T06:35:22.714814Z
+302
+robinson
+
+network
+dir
+
+build.xml
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+81c59fe5348d2a21ac87ad5430a5771d
+2007-07-25T17:21:14.713851Z
+311
+robinson
+
+trove
+dir
+
+.classpath
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+010661182505b2d9ed7a9d88ba9e5d0a
+2007-08-08T00:17:30.269880Z
+338
+robinson
+
+visualization
+dir
+
+OpenDialog.java
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+4864cfd57b69be4c46f9a257eecbffd5
+2007-07-26T03:03:42.955814Z
+322
+robinson
+
+INAV_Client.launch
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+0c64c689d7ec0600ad2e012154b3630e
+2007-07-30T02:37:14.611889Z
+330
+robinson
+
+INAV.jar
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+1b796000134770fc158038f364feee5f
+2007-08-08T00:17:30.269880Z
+338
+robinson
+has-props
+
+COPYING
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+3c34afdc3adf82d2448f12715a255122
+2007-07-26T03:03:42.955814Z
+322
+robinson
+
+INAV_Client.java
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+4de0e1d24bf5f8f2b83a48c9840c91dd
+2007-08-07T22:11:22.803667Z
+334
+robinson
+
+icon.png
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+4e4affe58e873031443499be4aa0d1a5
+2007-07-14T06:05:30.239746Z
+297
+robinson
+has-props
+
+libraries
+dir
+
+INAV_Test.java
+file
+
+
+
+
+2009-01-08T18:02:11.000000Z
+735ef912fe7769478e929094248612a0
+2007-07-26T03:03:42.955814Z
+322
+robinson
+

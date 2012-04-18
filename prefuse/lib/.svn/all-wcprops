@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/INAV/!svn/ver/500/old/prefuse/lib
+END
+license-apache-ant.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/INAV/!svn/ver/500/old/prefuse/lib/license-apache-ant.txt
+END
+license-colt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/prefuse/lib/license-colt.txt
+END
+license-jakarta-lucene.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/INAV/!svn/ver/500/old/prefuse/lib/license-jakarta-lucene.txt
+END
+lucene-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/prefuse/lib/lucene-1.4.3.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/old/prefuse/lib/ant.jar
+END

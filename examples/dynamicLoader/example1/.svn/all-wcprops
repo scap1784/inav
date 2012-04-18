@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example1
+END
+hello.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example1/hello.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example1/main.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/trunk/server/examples/dynamicLoader/example1/Makefile
+END

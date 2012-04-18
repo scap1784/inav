@@ -1,0 +1,142 @@
+8
+
+dir
+523
+http://inav.scaparra.com/INAV/old/prefuse
+http://inav.scaparra.com/INAV
+
+
+
+2009-01-06T05:34:02.280428Z
+500
+zarvox
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6004118f-da27-0410-86d5-e2dcc275f102
+
+test
+dir
+
+.classpath
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+b0aa8c4eed9386bdf9200aa8fb313ac0
+2007-07-14T06:30:05.971169Z
+301
+robinson
+
+Build Prefuse.launch
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+d6a450211bddf155aa147fdd535550e6
+2007-07-14T06:30:05.971169Z
+301
+robinson
+
+.project
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+26a7f8a7c0d7e0836dbd8924a888b888
+2007-07-02T02:15:57.778782Z
+278
+robinson
+
+build.bat
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+86be191bd23e280072724bccdefee4cb
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+doc
+dir
+
+lib
+dir
+
+demos
+dir
+
+src
+dir
+
+license-prefuse.txt
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+55e7b3b94110b2dca4020e4752bd05ff
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+build.sh
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+7c452d126c7e8bb5daf7c85bfe71fcae
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+data
+dir
+
+readme.txt
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+6efcdddc1dbea49cbf460057dc708ad9
+2007-04-29T21:43:58.663574Z
+119
+robinson
+
+build.xml
+file
+
+
+
+
+2009-01-08T18:02:34.000000Z
+4113bbad6348875626a362ee482ee8cb
+2007-04-29T21:43:58.663574Z
+119
+robinson
+

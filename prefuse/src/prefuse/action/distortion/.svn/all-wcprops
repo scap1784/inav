@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/distortion
+END
+FisheyeDistortion.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/distortion/FisheyeDistortion.java
+END
+BifocalDistortion.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/distortion/BifocalDistortion.java
+END
+Distortion.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/distortion/Distortion.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/action/distortion/package.html
+END

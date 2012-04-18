@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/INAV/!svn/ver/500/old/prefuse/test/test/prefuse/data/io
+END
+DelimitedTextTableReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/INAV/!svn/ver/500/old/prefuse/test/test/prefuse/data/io/DelimitedTextTableReaderTest.java
+END
+All_PrefuseDataIO_Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/INAV/!svn/ver/500/old/prefuse/test/test/prefuse/data/io/All_PrefuseDataIO_Tests.java
+END
+CSVTableReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/INAV/!svn/ver/500/old/prefuse/test/test/prefuse/data/io/CSVTableReaderTest.java
+END

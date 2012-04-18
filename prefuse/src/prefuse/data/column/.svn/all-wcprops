@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column
+END
+ConstantColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ConstantColumn.java
+END
+IntColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/IntColumn.java
+END
+LongColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/LongColumn.java
+END
+ExpressionColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ExpressionColumn.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/package.html
+END
+ByteColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ByteColumn.java
+END
+AbstractColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/AbstractColumn.java
+END
+FloatColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/FloatColumn.java
+END
+ObjectColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ObjectColumn.java
+END
+ColumnFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ColumnFactory.java
+END
+DoubleColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/DoubleColumn.java
+END
+DateColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/DateColumn.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/Column.java
+END
+BooleanColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/BooleanColumn.java
+END
+ColumnMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/column/ColumnMetadata.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls
+END
+RotationControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/RotationControl.java
+END
+SubtreeDragControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/SubtreeDragControl.java
+END
+AbstractZoomControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/AbstractZoomControl.java
+END
+WheelZoomControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/WheelZoomControl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/package.html
+END
+AnchorUpdateControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/AnchorUpdateControl.java
+END
+DragControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/DragControl.java
+END
+PanControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/PanControl.java
+END
+Control.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/Control.java
+END
+FocusControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/FocusControl.java
+END
+ControlAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/ControlAdapter.java
+END
+HoverActionControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/HoverActionControl.java
+END
+ZoomingPanControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/ZoomingPanControl.java
+END
+ZoomControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/ZoomControl.java
+END
+NeighborHighlightControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/NeighborHighlightControl.java
+END
+ZoomToFitControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/ZoomToFitControl.java
+END
+ToolTipControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/controls/ToolTipControl.java
+END

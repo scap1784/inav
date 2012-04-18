@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity
+END
+ActivityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/ActivityListener.java
+END
+SlowInSlowOutPacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/SlowInSlowOutPacer.java
+END
+ThereAndBackPacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/ThereAndBackPacer.java
+END
+ActivityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/ActivityManager.java
+END
+ActivityMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/ActivityMap.java
+END
+Pacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/Pacer.java
+END
+Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/Activity.java
+END
+ActivityAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/ActivityAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/activity/package.html
+END

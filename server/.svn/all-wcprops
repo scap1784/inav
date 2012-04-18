@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/INAV/!svn/ver/500/trunk/server
+END
+graphData.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/graphData.hpp
+END
+edge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/edge.cpp
+END
+rectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/rectangle.cpp
+END
+shape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/trunk/server/shape.hpp
+END
+packetData.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/INAV/!svn/ver/500/trunk/server/packetData.h
+END
+tester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/trunk/server/tester.cpp
+END
+edge.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/edge.hpp
+END
+baseData.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/trunk/server/baseData.h
+END
+majorVersion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/INAV/!svn/ver/500/trunk/server/majorVersion.txt
+END
+bandwidthMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/INAV/!svn/ver/500/trunk/server/bandwidthMonitor.cpp
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/packet.h
+END
+dataClassifications.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/INAV/!svn/ver/500/trunk/server/dataClassifications.hpp
+END
+ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/INAV/!svn/ver/500/trunk/server/ip.h
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/trunk/server/version.sh
+END
+dataQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/dataQueue.cpp
+END
+ethernet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/INAV/!svn/ver/500/trunk/server/ethernet.cpp
+END
+data.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/data.hpp
+END
+filterData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/INAV/!svn/ver/500/trunk/server/filterData.cpp
+END
+dataQueue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/dataQueue.hpp
+END
+debugThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/debugThread.h
+END
+inavServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/INAV/!svn/ver/500/trunk/server/inavServer.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/node.cpp
+END
+tcp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/INAV/!svn/ver/500/trunk/server/tcp.cpp
+END
+minorVersion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/INAV/!svn/ver/500/trunk/server/minorVersion.txt
+END
+icmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/icmp.cpp
+END
+clientCommData.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/INAV/!svn/ver/500/trunk/server/clientCommData.h
+END
+serverStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/serverStats.h
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/node.hpp
+END
+snifferData.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/snifferData.h
+END
+valueEquals.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/valueEquals.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/INAV/!svn/ver/500/trunk/server/CMakeLists.txt
+END
+udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/INAV/!svn/ver/500/trunk/server/udp.h
+END
+clientComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/INAV/!svn/ver/500/trunk/server/clientComm.h
+END
+graphData.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/INAV/!svn/ver/500/trunk/server/graphData.h
+END
+pcapSniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/trunk/server/pcapSniffer.cpp
+END
+sniffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/trunk/server/sniffer.h
+END
+baseData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/INAV/!svn/ver/500/trunk/server/baseData.cpp
+END
+pcapSniffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/trunk/server/pcapSniffer.hpp
+END
+packet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/trunk/server/packet.cpp
+END
+ip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/INAV/!svn/ver/500/trunk/server/ip.cpp
+END
+debugThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/trunk/server/debugThread.cpp
+END
+bandwidthMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/INAV/!svn/ver/500/trunk/server/bandwidthMonitor.h
+END
+inputPlugin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/trunk/server/inputPlugin.hpp
+END
+ethernet.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/trunk/server/ethernet.h
+END
+filterData.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/INAV/!svn/ver/500/trunk/server/filterData.h
+END
+clientCommData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/INAV/!svn/ver/500/trunk/server/clientCommData.cpp
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/INAV/!svn/ver/500/trunk/server/log.h
+END
+snifferData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/INAV/!svn/ver/500/trunk/server/snifferData.cpp
+END
+inavdstatic
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/INAV/!svn/ver/500/trunk/server/inavdstatic
+END
+udp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/INAV/!svn/ver/500/trunk/server/udp.cpp
+END
+clientComm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/INAV/!svn/ver/500/trunk/server/clientComm.cpp
+END
+graphData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/INAV/!svn/ver/500/trunk/server/graphData.cpp
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/INAV/!svn/ver/500/trunk/server/tcp.h
+END
+build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/trunk/server/build.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/trunk/server/makefile
+END
+sniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/INAV/!svn/ver/500/trunk/server/sniffer.cpp
+END
+icmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/INAV/!svn/ver/500/trunk/server/icmp.h
+END

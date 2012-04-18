@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/INAV/!svn/ver/500/old/prefuse/lib/drivers
+END
+license-mysql-connector.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/INAV/!svn/ver/500/old/prefuse/lib/drivers/license-mysql-connector.txt
+END
+mysql-connector-java-3.1.12-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/lib/drivers/mysql-connector-java-3.1.12-bin.jar
+END

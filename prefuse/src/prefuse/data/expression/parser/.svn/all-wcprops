@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/TokenMgrError.java
+END
+ExpressionParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/ExpressionParserTokenManager.java
+END
+ExpressionParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/ExpressionParserConstants.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/ParseException.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/JavaCharStream.java
+END
+ExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/ExpressionParser.java
+END
+ExpressionParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/ExpressionParser.jj
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/INAV/!svn/ver/500/old/prefuse/src/prefuse/data/expression/parser/package.html
+END

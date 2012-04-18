@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/INAV/!svn/ver/500/old/prefuse
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/old/prefuse/.classpath
+END
+Build Prefuse.launch
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/INAV/!svn/ver/500/old/prefuse/Build%20Prefuse.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/INAV/!svn/ver/500/old/prefuse/.project
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/old/prefuse/build.bat
+END
+license-prefuse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/INAV/!svn/ver/500/old/prefuse/license-prefuse.txt
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/INAV/!svn/ver/500/old/prefuse/build.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/old/prefuse/readme.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/INAV/!svn/ver/500/old/prefuse/build.xml
+END

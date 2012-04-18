@@ -1,0 +1,126 @@
+<project name="INAV" default="build" basedir=".">
+
+	<target name="init">
+		<tstamp>
+			<format property="year" pattern="yyyy" locale="en" />
+		</tstamp>
+
+		<!-- declare ant4eclipse -->
+		<taskdef resource="net/sf/ant4eclipse/antlib.xml" />
+		<property name="workspace" value="${basedir}/.." />
+		<property name="project.name" value="display" />
+		<property name="targetPlatformLocation" value="C:/Program Files/eclipse" />
+
+
+
+		<property file="build.properties" />
+		<property name="Name" value="INAV" />
+		<property name="name" value="INAV" />
+		<property name="version" value="beta" />
+
+		<property name="build.compiler" value="modern" />
+		<property name="debug" value="off" />
+		<property name="optimize" value="on" />
+		<property name="deprecation" value="on" />
+
+
+		<!-- Define the source directories -->
+		<property name="root.dir" value="./" />
+		<property name="doc.dir" value="${root.dir}/doc" />
+
+
+		<!-- Define the source build directories -->
+		<property name="doc.apidocs" value="${doc.dir}/api" />
+
+		<!-- resolve the eclipse output location -->
+		<getOutputpath property="classes.dir" workspace="${workspace}" projectName="${project.name}" />
+
+		<!-- resolve the eclipse source location -->
+		<getSourcepath property="source.dir" workspace="${workspace}" projectName="${project.name}" />
+
+		<!-- read the eclipse classpath -->
+		<getEclipseClasspath pathId="build.classpath" targetPlatformLocation="${targetPlatformLocation}" workspace="${workspace}" projectName="${project.name}" />
+
+	</target>
+
+
+	<!-- =================================================================== -->
+	<!-- Prepares the build directory                                        -->
+	<!-- =================================================================== -->
+	<target name="prepare" depends="init">
+		<delete file="${name}.jar" />
+		
+		<delete dir="${classes.dir}" />
+		<mkdir dir="${classes.dir}" />
+	</target>
+
+
+	<!-- =================================================================== -->
+	<!-- Compiles the INAV source code                                    -->
+	<!-- =================================================================== -->
+	<target name="compile" depends="prepare">
+		<javac 
+			srcdir="${root.dir}" 
+			destdir="${classes.dir}" 
+			classpathref="build.classpath"
+			classpath="prefuse.jar"
+			debug="${debug}"
+			deprecation="${deprecation}" 
+			optimize="${optimize}"/>
+		<!-- verbose="true" -->
+	</target>
+
+
+	<!-- ================================= -->
+	<!-- target: build               	   -->
+	<!-- ================================= -->
+
+	<target name="build" depends="init, compile">
+		<!-- Build the JAR file -->
+		<jar jarfile="${name}.jar" 
+			basedir="${classes.dir}" 
+			includes="**" 
+			excludes="*.xml">
+			<zipfileset src="prefuse.jar" />
+			<zipfileset src="libraries/cyberlink/cmgatejava120.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="INAV_Client" />
+				<attribute name="Product-Version" value=".13" />
+				<attribute name="Build-Date" value="${TODAY}" />
+			</manifest>
+		</jar>
+
+	</target>
+
+
+	<!-- =================================================================== -->
+	<!-- Clean restores the distribution to original state                   -->
+	<!-- =================================================================== -->
+	<target name="clean" depends="init">
+		<delete dir="${build.dir}" />
+		<delete dir="${classes.dir}" />
+		<delete dir="${doc.apidocs}" />
+	</target>
+
+	<!-- =================================================================== -->
+	<!-- Fix tabs and line endings on java source files                      -->
+	<!-- =================================================================== -->
+	<target name="fixtabs" depends="init">
+		<fixcrlf srcdir="${src.dir}" eol="lf" eof="remove" tablength="4" tab="remove" includes="**/*.java" />
+	</target>
+
+	<!-- =================================================================== -->
+	<!-- Replace all sequences of 4 spaces in .java files with a tab         -->
+	<!-- =================================================================== -->
+	<target name="addTabsWithLength4" depends="init">
+		<fixcrlf srcdir="${root.dir}" tab="add" tablength="4" includes="**/*.java" />
+	</target>
+
+	<!-- =================================================================== -->
+	<!-- Replace all tabs in .java files with a sequence of 4 spaces         -->
+	<!-- =================================================================== -->
+	<target name="removeTabsWithLength4" depends="init">
+		<fixcrlf srcdir="${root.dir}" tab="remove" tablength="4" includes="**/*.java" />
+	</target>
+
+</project>

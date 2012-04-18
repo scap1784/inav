@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/INAV/!svn/ver/500/trunk/server/utilities
+END
+communicationReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/INAV/!svn/ver/500/trunk/server/utilities/communicationReader.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/INAV/!svn/ver/500/trunk/server/utilities/makefile
+END
