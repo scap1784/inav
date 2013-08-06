@@ -6,7 +6,7 @@ PLATFORM=LINUX
 
 #modify this for where your libpcap files are
 PCAPLIBS=-I/usr/lib/ -I/usr/include  
-PCAPLINK=-L/usr/lib/  
+PCAPLINK=-L/usr/lib/ -L/usr/lib/x86_64-linux-gnu/
   
 NEWOBJS=dataQueue.o
 OBJS= clientComm.o clientCommData.o baseData.o snifferData.o sniffer.o ethernet.o ip.o tcp.o packet.o filterData.o graphData.o bandwidthMonitor.o ../common/semaphore.o icmp.o traceroute/tracerouteData.o traceroute/tracerouteThread.o ../common/commandLineParser.o ../common/xmlParser.o ../common/helper.o udp.o ../common/parseCommas.o debugThread.o ../common/mutex.o ../common/threads.o $(NEWOBJS)
@@ -22,7 +22,7 @@ DEPEND= makedepend $(CFLAGS)
 VERSION=$(shell ./version.sh)
 
 inavd: $(SERVOBJS)
-	$(CC) $(LDFLAGS) -o $@ $(SERVOBJS)
+	$(CC) -o $@ $(SERVOBJS) $(LDFLAGS)
 
 update: removeBuild removeMinorVersion svnUpdate inavd
 

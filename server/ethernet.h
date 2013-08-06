@@ -22,6 +22,7 @@
 #ifndef ETHERNET_H
 #define ETHERNET_H
 
+#include <stdint.h>
 #include <string>
 #include <pcap.h>
 #include <net/ethernet.h>

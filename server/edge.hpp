@@ -1,6 +1,6 @@
 #ifndef EDGE_HPP
 #define EDGE_HPP
-
+#include <stdint.h>
 enum LineType { straight, dotted, dashed, invisible };   
 
 class Edge {

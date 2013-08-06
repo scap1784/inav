@@ -21,7 +21,7 @@
 #ifndef NETWORKTYPE_H
 #define NETWORKTYPE_H
 #include <vector>
-
+#include <stdint.h>
 typedef uint32_t ipv4;
 typedef struct ipv6
 {
